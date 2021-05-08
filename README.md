@@ -7,9 +7,9 @@ One of main roles was developing the iOS application from scratch for the system
 E-care is a system that continuously monitors elderly people’s health and wellbeing through smartwatches. The system mainly focuses on Fall Detection and Indoor Localization. Moreover,  the application also aims to  facilitate the communication between the elderly and their caregivers by having a communication channel and providing real-time health data and reports. 
 
 ## System Hardware
-Smart phone
-Fitbit Smartwatch
-ESP32 for Indoor Positioning feature. 
+Smart phone. <br> 
+Fitbit Smartwatch. <br> 
+ESP32 for Indoor Positioning feature. <br> 
 
 ## Implementation
 *  Firebase for authentication.
