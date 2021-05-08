@@ -1,6 +1,6 @@
 # E-Care-iOS-Application
-E-Care is my Graduation project along with 4 other members. All of us are Computer Engineering Undergrads in The American University in Cairo (AUC). 
-One of main roles was developing the iOS application from scratch for the system. 
+E-Care is my Graduation project along with 4 other members. We are all Computer Engineering Undergrads in The American University in Cairo (AUC) expecting to graduate in May 2021. <br>
+One of my main roles was designing and developing the iOS application from scratch and integrating it with all system components. 
 
 ## Project Description
 
